@@ -15,7 +15,7 @@ body,html{
 }
 body{
     font-family:'Kumbh Sans',sans-serif;
-    background:url("./images/bg-pattern-top.svg"),url("./images/bg-pattern-bottom.svg"),var(--color1);
+    background:url("./bg-pattern-top.svg"),url("./bg-pattern-bottom.svg"),var(--color1);
     background-repeat: no-repeat;
     background-position: -45% 200%,140% -150%;
     display:flex;
@@ -100,7 +100,7 @@ main{
 }
 @media(max-width:768px){
     body{
-        background:url("./images/bg-pattern-top.svg"),url("./images/bg-pattern-bottom.svg"),var(--color1);
+        background:url("./bg-pattern-top.svg"),url("./bg-pattern-bottom.svg"),var(--color1);
         background-repeat: no-repeat;
         background-position: 140% 250%,-35% -160%;
     }
