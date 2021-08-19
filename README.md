@@ -22,8 +22,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-profile-card-component-with-html5css3flexbox-and-grid-O4EisWr9R](https://www.frontendmentor.io/solutions/responsive-profile-card-component-with-html5css3flexbox-and-grid-O4EisWr9R)
+- Live Site URL: [https://ganbnuray.github.io/profile-card-component-main/](https://ganbnuray.github.io/profile-card-component-main/)
 
 ### Built with
 
